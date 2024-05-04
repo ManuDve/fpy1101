@@ -12,4 +12,4 @@ def calcular_impuesto(renta):
     else:
         return 45
 
-print(f"Su tipo impositivo es {calcular_impuesto(renta)}%")
+print(f"Su tipo impositivo es {calcular_impuesto(renta)}%.")
